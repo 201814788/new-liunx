@@ -1,2 +1,2 @@
-# new-liunx
-  Linux
+bash
+
